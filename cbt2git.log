@@ -1,0 +1,680 @@
+2023-08-06 08:37:05.168266 - Initialized conversion of CBT946
+2023-08-06 08:37:10.282578 - Received CBT.V505.FILE946.PDS from FILE946.XMI 
+2023-08-06 08:37:10.284913 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:37:10.285822 - Found @FILE946.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/@FILE946
+2023-08-06 08:37:10.286816 - Found V013A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A00I
+2023-08-06 08:37:10.287807 - Found V013A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A01
+2023-08-06 08:37:10.288758 - Found V013A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A02
+2023-08-06 08:37:10.289690 - Found V013A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A03
+2023-08-06 08:37:10.290626 - Found V013A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A04
+2023-08-06 08:37:10.291536 - Found V013A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A05
+2023-08-06 08:37:10.292423 - Found V013A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A06
+2023-08-06 08:37:10.293371 - Found V013A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A07
+2023-08-06 08:37:10.294297 - Found V013A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A08
+2023-08-06 08:37:10.295275 - Found V013A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A09
+2023-08-06 08:37:10.296130 - Found V013A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A10
+2023-08-06 08:37:10.297134 - Found V013A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A11
+2023-08-06 08:37:10.298040 - Found V013A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A12
+2023-08-06 08:37:10.298975 - Found V013A13.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V013A13
+2023-08-06 08:37:10.299909 - Found V014A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A00I
+2023-08-06 08:37:10.300824 - Found V014A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A01
+2023-08-06 08:37:10.301782 - Found V014A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A02
+2023-08-06 08:37:10.302740 - Found V014A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A03
+2023-08-06 08:37:10.303705 - Found V014A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A04
+2023-08-06 08:37:10.304594 - Found V014A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A05
+2023-08-06 08:37:10.305536 - Found V014A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A06
+2023-08-06 08:37:10.306464 - Found V014A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A07
+2023-08-06 08:37:10.307401 - Found V014A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A08
+2023-08-06 08:37:10.308329 - Found V014A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A09
+2023-08-06 08:37:10.309253 - Found V014A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A10
+2023-08-06 08:37:10.310145 - Found V014A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A11
+2023-08-06 08:37:10.311081 - Found V014A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A12
+2023-08-06 08:37:10.312042 - Found V014A13.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V014A13
+2023-08-06 08:37:10.313018 - Found V015A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A00I
+2023-08-06 08:37:10.313990 - Found V015A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A01
+2023-08-06 08:37:10.314864 - Found V015A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A02
+2023-08-06 08:37:10.315815 - Found V015A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A03
+2023-08-06 08:37:10.316762 - Found V015A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A04
+2023-08-06 08:37:10.317723 - Found V015A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A05
+2023-08-06 08:37:10.317735 - Found V015A06.bin containing application/octet-stream, moved to PDS/V015A06
+2023-08-06 08:37:10.319554 - Found V015A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A07
+2023-08-06 08:37:10.320493 - Found V015A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A08
+2023-08-06 08:37:10.321438 - Found V015A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A09
+2023-08-06 08:37:10.322375 - Found V015A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A10
+2023-08-06 08:37:10.323270 - Found V015A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A11
+2023-08-06 08:37:10.324211 - Found V015A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V015A12
+2023-08-06 08:37:10.325234 - Found V016A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A00I
+2023-08-06 08:37:10.326108 - Found V016A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A01
+2023-08-06 08:37:10.327002 - Found V016A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A02
+2023-08-06 08:37:10.327969 - Found V016A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A03
+2023-08-06 08:37:10.328887 - Found V016A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A04
+2023-08-06 08:37:10.329904 - Found V016A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A05
+2023-08-06 08:37:10.330882 - Found V016A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A06
+2023-08-06 08:37:10.331824 - Found V016A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A07
+2023-08-06 08:37:10.332732 - Found V016A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A08
+2023-08-06 08:37:10.333662 - Found V016A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A09
+2023-08-06 08:37:10.334573 - Found V016A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A10
+2023-08-06 08:37:10.335451 - Found V016A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V016A11
+2023-08-06 08:37:10.336305 - Found V017A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A00I
+2023-08-06 08:37:10.337162 - Found V017A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A01
+2023-08-06 08:37:10.338118 - Found V017A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A02
+2023-08-06 08:37:10.339070 - Found V017A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A03
+2023-08-06 08:37:10.340030 - Found V017A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A04
+2023-08-06 08:37:10.340974 - Found V017A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A05
+2023-08-06 08:37:10.341851 - Found V017A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A06
+2023-08-06 08:37:10.342745 - Found V017A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A07
+2023-08-06 08:37:10.343639 - Found V017A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A08
+2023-08-06 08:37:10.344504 - Found V017A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A09
+2023-08-06 08:37:10.345443 - Found V017A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A10
+2023-08-06 08:37:10.346672 - Found V017A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V017A11
+2023-08-06 08:37:10.347604 - Found V018A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A00I
+2023-08-06 08:37:10.348511 - Found V018A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A01
+2023-08-06 08:37:10.349380 - Found V018A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A02
+2023-08-06 08:37:10.349391 - Found V018A03.bin containing application/octet-stream, moved to PDS/V018A03
+2023-08-06 08:37:10.351099 - Found V018A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A04
+2023-08-06 08:37:10.351995 - Found V018A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A05
+2023-08-06 08:37:10.352861 - Found V018A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A06
+2023-08-06 08:37:10.353768 - Found V018A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A07
+2023-08-06 08:37:10.354700 - Found V018A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A08
+2023-08-06 08:37:10.356044 - Found V018A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A09
+2023-08-06 08:37:10.357179 - Found V018A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A10
+2023-08-06 08:37:10.358081 - Found V018A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A11
+2023-08-06 08:37:10.358933 - Found V018A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V018A12
+2023-08-06 08:37:10.359819 - Found V019A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A00I
+2023-08-06 08:37:10.360683 - Found V019A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A01
+2023-08-06 08:37:10.361768 - Found V019A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A02
+2023-08-06 08:37:10.362786 - Found V019A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A03
+2023-08-06 08:37:10.362796 - Found V019A04.bin containing application/octet-stream, moved to PDS/V019A04
+2023-08-06 08:37:10.363786 - Found V019A05.bin containing application/octet-stream, moved to PDS/V019A05
+2023-08-06 08:37:10.365727 - Found V019A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A06
+2023-08-06 08:37:10.366675 - Found V019A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A07
+2023-08-06 08:37:10.367526 - Found V019A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A08
+2023-08-06 08:37:10.368403 - Found V019A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A09
+2023-08-06 08:37:10.369330 - Found V019A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A10
+2023-08-06 08:37:10.370295 - Found V019A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A11
+2023-08-06 08:37:10.371185 - Found V019A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V019A12
+2023-08-06 08:37:10.372051 - Found V020A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A00I
+2023-08-06 08:37:10.372908 - Found V020A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A01
+2023-08-06 08:37:10.373832 - Found V020A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A02
+2023-08-06 08:37:10.374745 - Found V020A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A03
+2023-08-06 08:37:10.375633 - Found V020A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A04
+2023-08-06 08:37:10.376493 - Found V020A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A05
+2023-08-06 08:37:10.377377 - Found V020A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A06
+2023-08-06 08:37:10.378392 - Found V020A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A07
+2023-08-06 08:37:10.379275 - Found V020A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A08
+2023-08-06 08:37:10.379285 - Found V020A09.bin containing application/octet-stream, moved to PDS/V020A09
+2023-08-06 08:37:10.381091 - Found V020A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V020A10
+2023-08-06 08:37:10.382353 - Found V021A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A00I
+2023-08-06 08:37:10.383345 - Found V021A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A01
+2023-08-06 08:37:10.384257 - Found V021A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A02
+2023-08-06 08:37:10.385121 - Found V021A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A03
+2023-08-06 08:37:10.385973 - Found V021A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A04
+2023-08-06 08:37:10.386828 - Found V021A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A05
+2023-08-06 08:37:10.387702 - Found V021A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A06
+2023-08-06 08:37:10.388581 - Found V021A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A07
+2023-08-06 08:37:10.389449 - Found V021A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A08
+2023-08-06 08:37:10.390371 - Found V021A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A09
+2023-08-06 08:37:10.391223 - Found V021A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A10
+2023-08-06 08:37:10.392767 - Found V021A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A11
+2023-08-06 08:37:10.393986 - Found V021A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A12
+2023-08-06 08:37:10.394897 - Found V021A13.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V021A13
+2023-08-06 08:37:10.395784 - Found V022A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A00I
+2023-08-06 08:37:10.396636 - Found V022A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A01
+2023-08-06 08:37:10.397542 - Found V022A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A02
+2023-08-06 08:37:10.398458 - Found V022A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A03
+2023-08-06 08:37:10.399329 - Found V022A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A04
+2023-08-06 08:37:10.400185 - Found V022A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A05
+2023-08-06 08:37:10.401079 - Found V022A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A06
+2023-08-06 08:37:10.401950 - Found V022A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A07
+2023-08-06 08:37:10.402810 - Found V022A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A08
+2023-08-06 08:37:10.403659 - Found V022A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A09
+2023-08-06 08:37:10.404588 - Found V022A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A10
+2023-08-06 08:37:10.405535 - Found V022A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A11
+2023-08-06 08:37:10.406419 - Found V022A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V022A12
+2023-08-06 08:37:10.407298 - Found V023A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A00I
+2023-08-06 08:37:10.408204 - Found V023A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A01
+2023-08-06 08:37:10.409053 - Found V023A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A02
+2023-08-06 08:37:10.409959 - Found V023A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A03
+2023-08-06 08:37:10.410832 - Found V023A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A04
+2023-08-06 08:37:10.411685 - Found V023A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A05
+2023-08-06 08:37:10.412504 - Found V023A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A06
+2023-08-06 08:37:10.413379 - Found V023A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A07
+2023-08-06 08:37:10.414223 - Found V023A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A08
+2023-08-06 08:37:10.415065 - Found V023A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A09
+2023-08-06 08:37:10.415992 - Found V023A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A10
+2023-08-06 08:37:10.416818 - Found V023A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A11
+2023-08-06 08:37:10.417678 - Found V023A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V023A12
+2023-08-06 08:37:10.418530 - Found V024A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A00I
+2023-08-06 08:37:10.419369 - Found V024A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A01
+2023-08-06 08:37:10.420188 - Found V024A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A02
+2023-08-06 08:37:10.420201 - Found V024A03.bin containing application/octet-stream, moved to PDS/V024A03
+2023-08-06 08:37:10.421958 - Found V024A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A04
+2023-08-06 08:37:10.422813 - Found V024A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A05
+2023-08-06 08:37:10.423674 - Found V024A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A06
+2023-08-06 08:37:10.424520 - Found V024A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A07
+2023-08-06 08:37:10.425399 - Found V024A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A08
+2023-08-06 08:37:10.426327 - Found V024A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V024A09
+2023-08-06 08:37:10.427192 - Found V025A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A00I
+2023-08-06 08:37:10.428051 - Found V025A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A01
+2023-08-06 08:37:10.428899 - Found V025A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A02
+2023-08-06 08:37:10.429796 - Found V025A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A03
+2023-08-06 08:37:10.430619 - Found V025A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A04
+2023-08-06 08:37:10.431460 - Found V025A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A05
+2023-08-06 08:37:10.432286 - Found V025A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A06
+2023-08-06 08:37:10.433156 - Found V025A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A07
+2023-08-06 08:37:10.434039 - Found V025A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A08
+2023-08-06 08:37:10.434904 - Found V025A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A09
+2023-08-06 08:37:10.435785 - Found V025A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A10
+2023-08-06 08:37:10.436662 - Found V025A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V025A11
+2023-08-06 08:37:10.437530 - Found V026A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A00I
+2023-08-06 08:37:10.438412 - Found V026A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A01
+2023-08-06 08:37:10.439269 - Found V026A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A02
+2023-08-06 08:37:10.440127 - Found V026A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A03
+2023-08-06 08:37:10.441031 - Found V026A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A04
+2023-08-06 08:37:10.441041 - Found V026A05.bin containing application/octet-stream, moved to PDS/V026A05
+2023-08-06 08:37:10.442793 - Found V026A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A06
+2023-08-06 08:37:10.443686 - Found V026A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A07
+2023-08-06 08:37:10.444546 - Found V026A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A08
+2023-08-06 08:37:10.445430 - Found V026A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A09
+2023-08-06 08:37:10.446335 - Found V026A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A10
+2023-08-06 08:37:10.447206 - Found V026A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V026A11
+2023-08-06 08:37:10.448041 - Found V027A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A00I
+2023-08-06 08:37:10.448870 - Found V027A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A01
+2023-08-06 08:37:10.449756 - Found V027A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A02
+2023-08-06 08:37:10.450599 - Found V027A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A03
+2023-08-06 08:37:10.451428 - Found V027A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A04
+2023-08-06 08:37:10.452269 - Found V027A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A05
+2023-08-06 08:37:10.453140 - Found V027A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A06
+2023-08-06 08:37:10.454052 - Found V027A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A07
+2023-08-06 08:37:10.454930 - Found V027A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A08
+2023-08-06 08:37:10.455826 - Found V027A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A09
+2023-08-06 08:37:10.456668 - Found V027A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A10
+2023-08-06 08:37:10.457555 - Found V027A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V027A11
+2023-08-06 08:37:10.458403 - Found V028A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A00I
+2023-08-06 08:37:10.459210 - Found V028A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A01
+2023-08-06 08:37:10.460092 - Found V028A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A02
+2023-08-06 08:37:10.460908 - Found V028A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A03
+2023-08-06 08:37:10.461787 - Found V028A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A04
+2023-08-06 08:37:10.462631 - Found V028A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A05
+2023-08-06 08:37:10.463469 - Found V028A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A06
+2023-08-06 08:37:10.464383 - Found V028A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A07
+2023-08-06 08:37:10.465250 - Found V028A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A08
+2023-08-06 08:37:10.466109 - Found V028A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A09
+2023-08-06 08:37:10.467127 - Found V028A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V028A10
+2023-08-06 08:37:10.467981 - Found V029A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A00I
+2023-08-06 08:37:10.467991 - Found V029A01.bin containing application/octet-stream, moved to PDS/V029A01
+2023-08-06 08:37:10.469790 - Found V029A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A02
+2023-08-06 08:37:10.469800 - Found V029A03.bin containing application/octet-stream, moved to PDS/V029A03
+2023-08-06 08:37:10.471609 - Found V029A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A04
+2023-08-06 08:37:10.472441 - Found V029A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A05
+2023-08-06 08:37:10.473331 - Found V029A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A06
+2023-08-06 08:37:10.474268 - Found V029A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A07
+2023-08-06 08:37:10.475119 - Found V029A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A08
+2023-08-06 08:37:10.475994 - Found V029A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A09
+2023-08-06 08:37:10.476850 - Found V029A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A10
+2023-08-06 08:37:10.477733 - Found V029A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V029A11
+2023-08-06 08:37:10.478625 - Found V030A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A00I
+2023-08-06 08:37:10.479548 - Found V030A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A01
+2023-08-06 08:37:10.480415 - Found V030A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A02
+2023-08-06 08:37:10.481290 - Found V030A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A03
+2023-08-06 08:37:10.482199 - Found V030A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A04
+2023-08-06 08:37:10.483057 - Found V030A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A05
+2023-08-06 08:37:10.483877 - Found V030A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A06
+2023-08-06 08:37:10.484719 - Found V030A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A07
+2023-08-06 08:37:10.485642 - Found V030A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A08
+2023-08-06 08:37:10.486488 - Found V030A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A09
+2023-08-06 08:37:10.487349 - Found V030A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A10
+2023-08-06 08:37:10.488149 - Found V030A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A11
+2023-08-06 08:37:10.489030 - Found V030A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A12
+2023-08-06 08:37:10.489894 - Found V030A13.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V030A13
+2023-08-06 08:37:10.490809 - Found V031A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A00I
+2023-08-06 08:37:10.491709 - Found V031A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A01
+2023-08-06 08:37:10.491719 - Found V031A02.bin containing application/octet-stream, moved to PDS/V031A02
+2023-08-06 08:37:10.492650 - Found V031A03.bin containing application/octet-stream, moved to PDS/V031A03
+2023-08-06 08:37:10.494522 - Found V031A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A04
+2023-08-06 08:37:10.495426 - Found V031A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A05
+2023-08-06 08:37:10.496313 - Found V031A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A06
+2023-08-06 08:37:10.497218 - Found V031A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A07
+2023-08-06 08:37:10.497231 - Found V031A08.bin containing application/octet-stream, moved to PDS/V031A08
+2023-08-06 08:37:10.498993 - Found V031A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V031A09
+2023-08-06 08:37:10.499878 - Found V032A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A00I
+2023-08-06 08:37:10.499887 - Found V032A01.bin containing application/octet-stream, moved to PDS/V032A01
+2023-08-06 08:37:10.500737 - Found V032A02.bin containing application/octet-stream, moved to PDS/V032A02
+2023-08-06 08:37:10.502566 - Found V032A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A03
+2023-08-06 08:37:10.503458 - Found V032A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A04
+2023-08-06 08:37:10.504353 - Found V032A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A05
+2023-08-06 08:37:10.505275 - Found V032A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A06
+2023-08-06 08:37:10.506168 - Found V032A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A07
+2023-08-06 08:37:10.506177 - Found V032A08.bin containing application/octet-stream, moved to PDS/V032A08
+2023-08-06 08:37:10.507057 - Found V032A09.bin containing application/octet-stream, moved to PDS/V032A09
+2023-08-06 08:37:10.508782 - Found V032A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A10
+2023-08-06 08:37:10.509694 - Found V032A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V032A11
+2023-08-06 08:37:10.510602 - Found V033A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A00I
+2023-08-06 08:37:10.510611 - Found V033A01.bin containing application/octet-stream, moved to PDS/V033A01
+2023-08-06 08:37:10.511544 - Found V033A02.bin containing application/octet-stream, moved to PDS/V033A02
+2023-08-06 08:37:10.513275 - Found V033A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A03
+2023-08-06 08:37:10.513285 - Found V033A04.bin containing application/octet-stream, moved to PDS/V033A04
+2023-08-06 08:37:10.515055 - Found V033A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A05
+2023-08-06 08:37:10.515917 - Found V033A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A06
+2023-08-06 08:37:10.516783 - Found V033A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A07
+2023-08-06 08:37:10.517682 - Found V033A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A08
+2023-08-06 08:37:10.518569 - Found V033A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A09
+2023-08-06 08:37:10.519441 - Found V033A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A10
+2023-08-06 08:37:10.520286 - Found V033A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V033A11
+2023-08-06 08:37:10.521177 - Found V034A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V034A00I
+2023-08-06 08:37:10.522052 - Found V034A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V034A01
+2023-08-06 08:37:10.522887 - Found V034A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V034A02
+2023-08-06 08:37:10.522897 - Found V034A03.bin containing application/octet-stream, moved to PDS/V034A03
+2023-08-06 08:37:10.523739 - Found V034A04.bin containing application/octet-stream, moved to PDS/V034A04
+2023-08-06 08:37:10.526641 - Found V034A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V034A05
+2023-08-06 08:37:10.526654 - Found V034A06.bin containing application/octet-stream, moved to PDS/V034A06
+2023-08-06 08:37:10.527509 - Found V034A07.bin containing application/octet-stream, moved to PDS/V034A07
+2023-08-06 08:37:10.528391 - Found V034A08.bin containing application/octet-stream, moved to PDS/V034A08
+2023-08-06 08:37:10.529303 - Found V034A09.bin containing application/octet-stream, moved to PDS/V034A09
+2023-08-06 08:37:10.530244 - Found V034A10.bin containing application/octet-stream, moved to PDS/V034A10
+2023-08-06 08:37:10.532016 - Found V035A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A00I
+2023-08-06 08:37:10.532870 - Found V035A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A01
+2023-08-06 08:37:10.533779 - Found V035A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A02
+2023-08-06 08:37:10.534650 - Found V035A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A03
+2023-08-06 08:37:10.535520 - Found V035A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A04
+2023-08-06 08:37:10.536358 - Found V035A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A05
+2023-08-06 08:37:10.537209 - Found V035A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A06
+2023-08-06 08:37:10.538118 - Found V035A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A07
+2023-08-06 08:37:10.538972 - Found V035A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A08
+2023-08-06 08:37:10.539819 - Found V035A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V035A09
+2023-08-06 08:37:10.540674 - Found V036A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A00I
+2023-08-06 08:37:10.541542 - Found V036A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A01
+2023-08-06 08:37:10.542454 - Found V036A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A02
+2023-08-06 08:37:10.543324 - Found V036A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A03
+2023-08-06 08:37:10.544179 - Found V036A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A04
+2023-08-06 08:37:10.545071 - Found V036A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A05
+2023-08-06 08:37:10.546007 - Found V036A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A06
+2023-08-06 08:37:10.546887 - Found V036A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A07
+2023-08-06 08:37:10.547735 - Found V036A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A08
+2023-08-06 08:37:10.548572 - Found V036A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A09
+2023-08-06 08:37:10.549503 - Found V036A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A10
+2023-08-06 08:37:10.550413 - Found V036A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V036A11
+2023-08-06 08:37:10.551319 - Found V037A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V037A00I
+2023-08-06 08:37:10.551331 - Found V037A01.bin containing application/octet-stream, moved to PDS/V037A01
+2023-08-06 08:37:10.552144 - Found V037A02.bin containing application/octet-stream, moved to PDS/V037A02
+2023-08-06 08:37:10.553075 - Found V037A03.bin containing application/octet-stream, moved to PDS/V037A03
+2023-08-06 08:37:10.553971 - Found V037A04.bin containing application/octet-stream, moved to PDS/V037A04
+2023-08-06 08:37:10.554895 - Found V037A05.bin containing application/octet-stream, moved to PDS/V037A05
+2023-08-06 08:37:10.555787 - Found V037A06.bin containing application/octet-stream, moved to PDS/V037A06
+2023-08-06 08:37:10.556659 - Found V037A07.bin containing application/octet-stream, moved to PDS/V037A07
+2023-08-06 08:37:10.558381 - Found V037A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V037A08
+2023-08-06 08:37:10.559264 - Found V038A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A00I
+2023-08-06 08:37:10.560095 - Found V038A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A01
+2023-08-06 08:37:10.560104 - Found V038A02.bin containing application/octet-stream, moved to PDS/V038A02
+2023-08-06 08:37:10.561732 - Found V038A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A03
+2023-08-06 08:37:10.561741 - Found V038A04.bin containing application/octet-stream, moved to PDS/V038A04
+2023-08-06 08:37:10.562584 - Found V038A05.bin containing application/octet-stream, moved to PDS/V038A05
+2023-08-06 08:37:10.563441 - Found V038A06.bin containing application/octet-stream, moved to PDS/V038A06
+2023-08-06 08:37:10.564300 - Found V038A07.bin containing application/octet-stream, moved to PDS/V038A07
+2023-08-06 08:37:10.565162 - Found V038A08.bin containing application/octet-stream, moved to PDS/V038A08
+2023-08-06 08:37:10.566163 - Found V038A09.bin containing application/octet-stream, moved to PDS/V038A09
+2023-08-06 08:37:10.568567 - Found V038A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A10
+2023-08-06 08:37:10.569518 - Found V038A11.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A11
+2023-08-06 08:37:10.570411 - Found V038A12.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V038A12
+2023-08-06 08:37:10.570419 - Found V039A00I.bin containing application/octet-stream, moved to PDS/V039A00I
+2023-08-06 08:37:10.572373 - Found V039A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V039A01
+2023-08-06 08:37:10.573348 - Found V039A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V039A02
+2023-08-06 08:37:10.573357 - Found V039A03.bin containing application/octet-stream, moved to PDS/V039A03
+2023-08-06 08:37:10.574329 - Found V039A04.bin containing application/octet-stream, moved to PDS/V039A04
+2023-08-06 08:37:10.576225 - Found V039A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V039A05
+2023-08-06 08:37:10.576234 - Found V039A06.bin containing application/octet-stream, moved to PDS/V039A06
+2023-08-06 08:37:10.577267 - Found V039A07.bin containing application/octet-stream, moved to PDS/V039A07
+2023-08-06 08:37:10.579163 - Found V039A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V039A08
+2023-08-06 08:37:10.579172 - Found V039A09.bin containing application/octet-stream, moved to PDS/V039A09
+2023-08-06 08:37:10.580092 - Found V039A10.bin containing application/octet-stream, moved to PDS/V039A10
+2023-08-06 08:37:10.581864 - Found V040A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V040A00I
+2023-08-06 08:37:10.581873 - Found V040A01.bin containing application/octet-stream, moved to PDS/V040A01
+2023-08-06 08:37:10.582795 - Found V040A02.bin containing application/octet-stream, moved to PDS/V040A02
+2023-08-06 08:37:10.583717 - Found V040A03.bin containing application/octet-stream, moved to PDS/V040A03
+2023-08-06 08:37:10.584695 - Found V040A04.bin containing application/octet-stream, moved to PDS/V040A04
+2023-08-06 08:37:10.585685 - Found V040A05.bin containing application/octet-stream, moved to PDS/V040A05
+2023-08-06 08:37:10.586632 - Found V040A06.bin containing application/octet-stream, moved to PDS/V040A06
+2023-08-06 08:37:10.588590 - Found V040A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V040A07
+2023-08-06 08:37:10.588600 - Found V040A08.bin containing application/octet-stream, moved to PDS/V040A08
+2023-08-06 08:37:10.589537 - Found V040A09.bin containing application/octet-stream, moved to PDS/V040A09
+2023-08-06 08:37:10.591531 - Found V040A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V040A10
+2023-08-06 08:37:10.592487 - Found V041A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A00I
+2023-08-06 08:37:10.593495 - Found V041A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A01
+2023-08-06 08:37:10.594423 - Found V041A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A02
+2023-08-06 08:37:10.595469 - Found V041A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A03
+2023-08-06 08:37:10.596444 - Found V041A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A04
+2023-08-06 08:37:10.596453 - Found V041A05.bin containing application/octet-stream, moved to PDS/V041A05
+2023-08-06 08:37:10.598406 - Found V041A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A06
+2023-08-06 08:37:10.598415 - Found V041A07.bin containing application/octet-stream, moved to PDS/V041A07
+2023-08-06 08:37:10.599400 - Found V041A08.bin containing application/octet-stream, moved to PDS/V041A08
+2023-08-06 08:37:10.601312 - Found V041A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A09
+2023-08-06 08:37:10.602207 - Found V041A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V041A10
+2023-08-06 08:37:10.603081 - Found V042A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A00I
+2023-08-06 08:37:10.604088 - Found V042A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A01
+2023-08-06 08:37:10.605072 - Found V042A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A02
+2023-08-06 08:37:10.605081 - Found V042A03.bin containing application/octet-stream, moved to PDS/V042A03
+2023-08-06 08:37:10.606935 - Found V042A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A04
+2023-08-06 08:37:10.607874 - Found V042A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A05
+2023-08-06 08:37:10.608784 - Found V042A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A06
+2023-08-06 08:37:10.608793 - Found V042A07.bin containing application/octet-stream, moved to PDS/V042A07
+2023-08-06 08:37:10.610755 - Found V042A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V042A08
+2023-08-06 08:37:10.611749 - Found V043A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V043A00I
+2023-08-06 08:37:10.612713 - Found V043A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V043A01
+2023-08-06 08:37:10.612736 - Found V043A02.bin containing application/octet-stream, moved to PDS/V043A02
+2023-08-06 08:37:10.613656 - Found V043A03.bin containing application/octet-stream, moved to PDS/V043A03
+2023-08-06 08:37:10.614488 - Found V043A04.bin containing application/octet-stream, moved to PDS/V043A04
+2023-08-06 08:37:10.615366 - Found V043A05.bin containing application/octet-stream, moved to PDS/V043A05
+2023-08-06 08:37:10.616250 - Found V043A06.bin containing application/octet-stream, moved to PDS/V043A06
+2023-08-06 08:37:10.617148 - Found V043A07.bin containing application/octet-stream, moved to PDS/V043A07
+2023-08-06 08:37:10.618001 - Found V043A08.bin containing application/octet-stream, moved to PDS/V043A08
+2023-08-06 08:37:10.619644 - Found V043A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V043A09
+2023-08-06 08:37:10.620478 - Found V044A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A00I
+2023-08-06 08:37:10.621352 - Found V044A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A01
+2023-08-06 08:37:10.622256 - Found V044A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A02
+2023-08-06 08:37:10.622265 - Found V044A03.bin containing application/octet-stream, moved to PDS/V044A03
+2023-08-06 08:37:10.624013 - Found V044A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A04
+2023-08-06 08:37:10.624022 - Found V044A05.bin containing application/octet-stream, moved to PDS/V044A05
+2023-08-06 08:37:10.624898 - Found V044A06.bin containing application/octet-stream, moved to PDS/V044A06
+2023-08-06 08:37:10.626644 - Found V044A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A07
+2023-08-06 08:37:10.627513 - Found V044A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A08
+2023-08-06 08:37:10.627522 - Found V044A09.bin containing application/octet-stream, moved to PDS/V044A09
+2023-08-06 08:37:10.629281 - Found V044A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V044A10
+2023-08-06 08:37:10.629291 - Found V044A11.bin containing application/octet-stream, moved to PDS/V044A11
+2023-08-06 08:37:10.630973 - Found V045A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A00I
+2023-08-06 08:37:10.630982 - Found V045A01.bin containing application/octet-stream, moved to PDS/V045A01
+2023-08-06 08:37:10.632670 - Found V045A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A02
+2023-08-06 08:37:10.633559 - Found V045A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A03
+2023-08-06 08:37:10.633568 - Found V045A04.bin containing application/octet-stream, moved to PDS/V045A04
+2023-08-06 08:37:10.635307 - Found V045A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A05
+2023-08-06 08:37:10.635317 - Found V045A06.bin containing application/octet-stream, moved to PDS/V045A06
+2023-08-06 08:37:10.637054 - Found V045A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A07
+2023-08-06 08:37:10.637064 - Found V045A08.bin containing application/octet-stream, moved to PDS/V045A08
+2023-08-06 08:37:10.638779 - Found V045A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A09
+2023-08-06 08:37:10.639614 - Found V045A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V045A10
+2023-08-06 08:37:10.640432 - Found V046A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V046A00I
+2023-08-06 08:37:10.640442 - Found V046A01.bin containing application/octet-stream, moved to PDS/V046A01
+2023-08-06 08:37:10.642169 - Found V046A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V046A02
+2023-08-06 08:37:10.642179 - Found V046A03.bin containing application/octet-stream, moved to PDS/V046A03
+2023-08-06 08:37:10.643044 - Found V046A04.bin containing application/octet-stream, moved to PDS/V046A04
+2023-08-06 08:37:10.643943 - Found V046A05.bin containing application/octet-stream, moved to PDS/V046A05
+2023-08-06 08:37:10.644763 - Found V046A06.bin containing application/octet-stream, moved to PDS/V046A06
+2023-08-06 08:37:10.646429 - Found V046A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V046A07
+2023-08-06 08:37:10.647278 - Found V046A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V046A08
+2023-08-06 08:37:10.647287 - Found V046A09.bin containing application/octet-stream, moved to PDS/V046A09
+2023-08-06 08:37:10.648969 - Found V047A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V047A00I
+2023-08-06 08:37:10.648980 - Found V047A01.bin containing application/octet-stream, moved to PDS/V047A01
+2023-08-06 08:37:10.650781 - Found V047A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V047A02
+2023-08-06 08:37:10.650794 - Found V047A03.bin containing application/octet-stream, moved to PDS/V047A03
+2023-08-06 08:37:10.652471 - Found V047A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V047A04
+2023-08-06 08:37:10.653308 - Found V047A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V047A05
+2023-08-06 08:37:10.653317 - Found V047A06.bin containing application/octet-stream, moved to PDS/V047A06
+2023-08-06 08:37:10.654174 - Found V047A07.bin containing application/octet-stream, moved to PDS/V047A07
+2023-08-06 08:37:10.655001 - Found V047A08.bin containing application/octet-stream, moved to PDS/V047A08
+2023-08-06 08:37:10.655827 - Found V047A09.bin containing application/octet-stream, moved to PDS/V047A09
+2023-08-06 08:37:10.657487 - Found V048A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A00I
+2023-08-06 08:37:10.658786 - Found V048A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A01
+2023-08-06 08:37:10.658794 - Found V048A02.bin containing application/octet-stream, moved to PDS/V048A02
+2023-08-06 08:37:10.660831 - Found V048A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A03
+2023-08-06 08:37:10.660841 - Found V048A04.bin containing application/octet-stream, moved to PDS/V048A04
+2023-08-06 08:37:10.662575 - Found V048A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A05
+2023-08-06 08:37:10.663450 - Found V048A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A06
+2023-08-06 08:37:10.664312 - Found V048A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A07
+2023-08-06 08:37:10.664321 - Found V048A08.bin containing application/octet-stream, moved to PDS/V048A08
+2023-08-06 08:37:10.666042 - Found V048A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V048A09
+2023-08-06 08:37:10.666895 - Found V049A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A00I
+2023-08-06 08:37:10.668096 - Found V049A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A01
+2023-08-06 08:37:10.668985 - Found V049A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A02
+2023-08-06 08:37:10.670031 - Found V049A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A03
+2023-08-06 08:37:10.670068 - Found V049A04.bin containing application/octet-stream, moved to PDS/V049A04
+2023-08-06 08:37:10.672211 - Found V049A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A05
+2023-08-06 08:37:10.672221 - Found V049A06.bin containing application/octet-stream, moved to PDS/V049A06
+2023-08-06 08:37:10.674224 - Found V049A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A07
+2023-08-06 08:37:10.675225 - Found V049A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V049A08
+2023-08-06 08:37:10.676178 - Found V050A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V050A00I
+2023-08-06 08:37:10.677163 - Found V050A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V050A01
+2023-08-06 08:37:10.677172 - Found V050A02.bin containing application/octet-stream, moved to PDS/V050A02
+2023-08-06 08:37:10.678127 - Found V050A03.bin containing application/octet-stream, moved to PDS/V050A03
+2023-08-06 08:37:10.679042 - Found V050A04.bin containing application/octet-stream, moved to PDS/V050A04
+2023-08-06 08:37:10.679990 - Found V050A05.bin containing application/octet-stream, moved to PDS/V050A05
+2023-08-06 08:37:10.680964 - Found V050A06.bin containing application/octet-stream, moved to PDS/V050A06
+2023-08-06 08:37:10.681904 - Found V050A07.bin containing application/octet-stream, moved to PDS/V050A07
+2023-08-06 08:37:10.683663 - Found V050A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V050A08
+2023-08-06 08:37:10.683672 - Found V050A09.bin containing application/octet-stream, moved to PDS/V050A09
+2023-08-06 08:37:10.685378 - Found V051A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A00I
+2023-08-06 08:37:10.686218 - Found V051A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A01
+2023-08-06 08:37:10.686228 - Found V051A02.bin containing application/octet-stream, moved to PDS/V051A02
+2023-08-06 08:37:10.687036 - Found V051A03.bin containing application/octet-stream, moved to PDS/V051A03
+2023-08-06 08:37:10.687877 - Found V051A04.bin containing application/octet-stream, moved to PDS/V051A04
+2023-08-06 08:37:10.689541 - Found V051A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A05
+2023-08-06 08:37:10.690508 - Found V051A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A06
+2023-08-06 08:37:10.691380 - Found V051A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A07
+2023-08-06 08:37:10.692181 - Found V051A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A08
+2023-08-06 08:37:10.693011 - Found V051A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V051A09
+2023-08-06 08:37:10.693863 - Found V052A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V052A00I
+2023-08-06 08:37:10.693875 - Found V052A01.bin containing application/octet-stream, moved to PDS/V052A01
+2023-08-06 08:37:10.696554 - Found V052A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V052A02
+2023-08-06 08:37:10.696565 - Found V052A03.bin containing application/octet-stream, moved to PDS/V052A03
+2023-08-06 08:37:10.698373 - Found V052A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V052A04
+2023-08-06 08:37:10.698382 - Found V052A05.bin containing application/octet-stream, moved to PDS/V052A05
+2023-08-06 08:37:10.699238 - Found V052A06.bin containing application/octet-stream, moved to PDS/V052A06
+2023-08-06 08:37:10.700857 - Found V052A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V052A07
+2023-08-06 08:37:10.701718 - Found V052A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V052A08
+2023-08-06 08:37:10.702546 - Found V053A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A00I
+2023-08-06 08:37:10.703372 - Found V053A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A01
+2023-08-06 08:37:10.704200 - Found V053A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A02
+2023-08-06 08:37:10.705038 - Found V053A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A03
+2023-08-06 08:37:10.706354 - Found V053A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A04
+2023-08-06 08:37:10.707248 - Found V053A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A05
+2023-08-06 08:37:10.708116 - Found V053A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A06
+2023-08-06 08:37:10.708876 - Found V053A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A07
+2023-08-06 08:37:10.709736 - Found V053A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A08
+2023-08-06 08:37:10.710603 - Found V053A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A09
+2023-08-06 08:37:10.711453 - Found V053A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V053A10
+2023-08-06 08:37:10.712428 - Found V054A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A00I
+2023-08-06 08:37:10.713304 - Found V054A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A01
+2023-08-06 08:37:10.714232 - Found V054A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A02
+2023-08-06 08:37:10.715082 - Found V054A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A03
+2023-08-06 08:37:10.716070 - Found V054A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A04
+2023-08-06 08:37:10.716080 - Found V054A05.bin containing application/octet-stream, moved to PDS/V054A05
+2023-08-06 08:37:10.717832 - Found V054A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A06
+2023-08-06 08:37:10.718672 - Found V054A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A07
+2023-08-06 08:37:10.719520 - Found V054A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A08
+2023-08-06 08:37:10.720293 - Found V054A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V054A09
+2023-08-06 08:37:10.721074 - Found V055A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A00I
+2023-08-06 08:37:10.722029 - Found V055A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A01
+2023-08-06 08:37:10.722898 - Found V055A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A02
+2023-08-06 08:37:10.723764 - Found V055A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A03
+2023-08-06 08:37:10.724617 - Found V055A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A04
+2023-08-06 08:37:10.725463 - Found V055A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A05
+2023-08-06 08:37:10.726338 - Found V055A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V055A06
+2023-08-06 08:37:10.727187 - Found V056A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A00I
+2023-08-06 08:37:10.728013 - Found V056A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A01
+2023-08-06 08:37:10.728830 - Found V056A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A02
+2023-08-06 08:37:10.729707 - Found V056A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A03
+2023-08-06 08:37:10.730708 - Found V056A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A04
+2023-08-06 08:37:10.731617 - Found V056A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A05
+2023-08-06 08:37:10.732474 - Found V056A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A06
+2023-08-06 08:37:10.733338 - Found V056A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A07
+2023-08-06 08:37:10.734213 - Found V056A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A08
+2023-08-06 08:37:10.735097 - Found V056A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V056A09
+2023-08-06 08:37:10.735977 - Found V057A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A00I
+2023-08-06 08:37:10.738026 - Found V057A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A01
+2023-08-06 08:37:10.739046 - Found V057A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A02
+2023-08-06 08:37:10.739958 - Found V057A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A03
+2023-08-06 08:37:10.740748 - Found V057A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A04
+2023-08-06 08:37:10.741680 - Found V057A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A05
+2023-08-06 08:37:10.742547 - Found V057A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A06
+2023-08-06 08:37:10.743426 - Found V057A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A07
+2023-08-06 08:37:10.744210 - Found V057A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V057A08
+2023-08-06 08:37:10.745083 - Found V058A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A00I
+2023-08-06 08:37:10.746143 - Found V058A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A01
+2023-08-06 08:37:10.747258 - Found V058A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A02
+2023-08-06 08:37:10.748164 - Found V058A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A03
+2023-08-06 08:37:10.748968 - Found V058A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A04
+2023-08-06 08:37:10.749810 - Found V058A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A05
+2023-08-06 08:37:10.750647 - Found V058A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A06
+2023-08-06 08:37:10.751507 - Found V058A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A07
+2023-08-06 08:37:10.751518 - Found V058A08.bin containing application/octet-stream, moved to PDS/V058A08
+2023-08-06 08:37:10.753157 - Found V058A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V058A09
+2023-08-06 08:37:10.754206 - Found V059A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A00I
+2023-08-06 08:37:10.754215 - Found V059A01.bin containing application/octet-stream, moved to PDS/V059A01
+2023-08-06 08:37:10.756170 - Found V059A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A02
+2023-08-06 08:37:10.757115 - Found V059A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A03
+2023-08-06 08:37:10.758134 - Found V059A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A04
+2023-08-06 08:37:10.759078 - Found V059A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A05
+2023-08-06 08:37:10.759919 - Found V059A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A06
+2023-08-06 08:37:10.760745 - Found V059A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A07
+2023-08-06 08:37:10.761632 - Found V059A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A08
+2023-08-06 08:37:10.762482 - Found V059A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V059A09
+2023-08-06 08:37:10.763473 - Found V060A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A00I
+2023-08-06 08:37:10.764416 - Found V060A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A01
+2023-08-06 08:37:10.765446 - Found V060A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A02
+2023-08-06 08:37:10.766399 - Found V060A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A03
+2023-08-06 08:37:10.767422 - Found V060A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A04
+2023-08-06 08:37:10.768357 - Found V060A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A05
+2023-08-06 08:37:10.769319 - Found V060A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A06
+2023-08-06 08:37:10.770342 - Found V060A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A07
+2023-08-06 08:37:10.771217 - Found V060A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A08
+2023-08-06 08:37:10.772081 - Found V060A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V060A09
+2023-08-06 08:37:10.772892 - Found V061A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A00I
+2023-08-06 08:37:10.773801 - Found V061A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A01
+2023-08-06 08:37:10.774862 - Found V061A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A02
+2023-08-06 08:37:10.775778 - Found V061A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A03
+2023-08-06 08:37:10.776659 - Found V061A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A04
+2023-08-06 08:37:10.777533 - Found V061A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A05
+2023-08-06 08:37:10.778440 - Found V061A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A06
+2023-08-06 08:37:10.779278 - Found V061A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V061A07
+2023-08-06 08:37:10.780166 - Found V062A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A00I
+2023-08-06 08:37:10.781086 - Found V062A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A01
+2023-08-06 08:37:10.782171 - Found V062A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A02
+2023-08-06 08:37:10.783309 - Found V062A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A03
+2023-08-06 08:37:10.784288 - Found V062A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A04
+2023-08-06 08:37:10.785213 - Found V062A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A05
+2023-08-06 08:37:10.786234 - Found V062A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A06
+2023-08-06 08:37:10.787186 - Found V062A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A07
+2023-08-06 08:37:10.788055 - Found V062A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V062A08
+2023-08-06 08:37:10.788901 - Found V063A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A00I
+2023-08-06 08:37:10.789775 - Found V063A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A01
+2023-08-06 08:37:10.790649 - Found V063A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A02
+2023-08-06 08:37:10.791521 - Found V063A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A03
+2023-08-06 08:37:10.792380 - Found V063A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A04
+2023-08-06 08:37:10.793236 - Found V063A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A05
+2023-08-06 08:37:10.794274 - Found V063A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A06
+2023-08-06 08:37:10.795173 - Found V063A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V063A07
+2023-08-06 08:37:10.796002 - Found V064A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A00I
+2023-08-06 08:37:10.796832 - Found V064A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A01
+2023-08-06 08:37:10.797857 - Found V064A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A02
+2023-08-06 08:37:10.798775 - Found V064A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A03
+2023-08-06 08:37:10.799651 - Found V064A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A04
+2023-08-06 08:37:10.800534 - Found V064A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A05
+2023-08-06 08:37:10.801406 - Found V064A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A06
+2023-08-06 08:37:10.802219 - Found V064A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V064A07
+2023-08-06 08:37:10.803031 - Found V065A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A00I
+2023-08-06 08:37:10.803880 - Found V065A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A01
+2023-08-06 08:37:10.804728 - Found V065A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A02
+2023-08-06 08:37:10.805775 - Found V065A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A03
+2023-08-06 08:37:10.806648 - Found V065A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A04
+2023-08-06 08:37:10.807536 - Found V065A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A05
+2023-08-06 08:37:10.808420 - Found V065A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A06
+2023-08-06 08:37:10.809246 - Found V065A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V065A07
+2023-08-06 08:37:10.810261 - Found V066A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A00I
+2023-08-06 08:37:10.811118 - Found V066A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A01
+2023-08-06 08:37:10.811962 - Found V066A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A02
+2023-08-06 08:37:10.812987 - Found V066A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A03
+2023-08-06 08:37:10.813862 - Found V066A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A04
+2023-08-06 08:37:10.814869 - Found V066A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A05
+2023-08-06 08:37:10.815783 - Found V066A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V066A06
+2023-08-06 08:37:10.816798 - Found V067A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A00I
+2023-08-06 08:37:10.817684 - Found V067A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A01
+2023-08-06 08:37:10.818530 - Found V067A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A02
+2023-08-06 08:37:10.819389 - Found V067A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A03
+2023-08-06 08:37:10.820246 - Found V067A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A04
+2023-08-06 08:37:10.821118 - Found V067A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A05
+2023-08-06 08:37:10.822121 - Found V067A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A06
+2023-08-06 08:37:10.822984 - Found V067A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A07
+2023-08-06 08:37:10.823845 - Found V067A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V067A08
+2023-08-06 08:37:10.824692 - Found V068A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A00I
+2023-08-06 08:37:10.825556 - Found V068A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A01
+2023-08-06 08:37:10.826410 - Found V068A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A02
+2023-08-06 08:37:10.827560 - Found V068A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A03
+2023-08-06 08:37:10.828433 - Found V068A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A04
+2023-08-06 08:37:10.829384 - Found V068A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A05
+2023-08-06 08:37:10.830290 - Found V068A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A06
+2023-08-06 08:37:10.831257 - Found V068A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A07
+2023-08-06 08:37:10.832132 - Found V068A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V068A08
+2023-08-06 08:37:10.833060 - Found V069A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A00I
+2023-08-06 08:37:10.834118 - Found V069A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A01
+2023-08-06 08:37:10.835100 - Found V069A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A02
+2023-08-06 08:37:10.836005 - Found V069A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A03
+2023-08-06 08:37:10.836981 - Found V069A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A04
+2023-08-06 08:37:10.837901 - Found V069A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A05
+2023-08-06 08:37:10.838865 - Found V069A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A06
+2023-08-06 08:37:10.839770 - Found V069A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V069A07
+2023-08-06 08:37:10.840763 - Found V070A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A00I
+2023-08-06 08:37:10.841814 - Found V070A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A01
+2023-08-06 08:37:10.842707 - Found V070A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A02
+2023-08-06 08:37:10.843685 - Found V070A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A03
+2023-08-06 08:37:10.844603 - Found V070A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A04
+2023-08-06 08:37:10.845507 - Found V070A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A05
+2023-08-06 08:37:10.846506 - Found V070A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A06
+2023-08-06 08:37:10.847506 - Found V070A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A07
+2023-08-06 08:37:10.848482 - Found V070A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V070A08
+2023-08-06 08:37:10.849457 - Found V071A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A00I
+2023-08-06 08:37:10.850504 - Found V071A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A01
+2023-08-06 08:37:10.851516 - Found V071A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A02
+2023-08-06 08:37:10.852562 - Found V071A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A03
+2023-08-06 08:37:10.853540 - Found V071A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A04
+2023-08-06 08:37:10.854757 - Found V071A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A05
+2023-08-06 08:37:10.855670 - Found V071A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V071A06
+2023-08-06 08:37:10.856535 - Found V072A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A00I
+2023-08-06 08:37:10.857481 - Found V072A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A01
+2023-08-06 08:37:10.858514 - Found V072A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A02
+2023-08-06 08:37:10.859462 - Found V072A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A03
+2023-08-06 08:37:10.860342 - Found V072A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A04
+2023-08-06 08:37:10.861231 - Found V072A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A05
+2023-08-06 08:37:10.862275 - Found V072A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V072A06
+2023-08-06 08:37:10.863133 - Found V073A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A00I
+2023-08-06 08:37:10.863986 - Found V073A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A01
+2023-08-06 08:37:10.864837 - Found V073A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A02
+2023-08-06 08:37:10.865699 - Found V073A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A03
+2023-08-06 08:37:10.866734 - Found V073A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A04
+2023-08-06 08:37:10.867642 - Found V073A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A05
+2023-08-06 08:37:10.868696 - Found V073A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A06
+2023-08-06 08:37:10.869550 - Found V073A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V073A07
+2023-08-06 08:37:10.870615 - Found V074A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A00I
+2023-08-06 08:37:10.871519 - Found V074A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A01
+2023-08-06 08:37:10.872350 - Found V074A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A02
+2023-08-06 08:37:10.874291 - Found V074A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A03
+2023-08-06 08:37:10.875322 - Found V074A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A04
+2023-08-06 08:37:10.876205 - Found V074A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A05
+2023-08-06 08:37:10.877065 - Found V074A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A06
+2023-08-06 08:37:10.878138 - Found V074A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V074A07
+2023-08-06 08:37:10.879068 - Found V075A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A00I
+2023-08-06 08:37:10.879938 - Found V075A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A01
+2023-08-06 08:37:10.880821 - Found V075A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A02
+2023-08-06 08:37:10.881789 - Found V075A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A03
+2023-08-06 08:37:10.882682 - Found V075A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A04
+2023-08-06 08:37:10.883555 - Found V075A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A05
+2023-08-06 08:37:10.884393 - Found V075A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A06
+2023-08-06 08:37:10.885223 - Found V075A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A07
+2023-08-06 08:37:10.886193 - Found V075A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V075A08
+2023-08-06 08:37:10.887055 - Found V076A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A00I
+2023-08-06 08:37:10.887884 - Found V076A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A01
+2023-08-06 08:37:10.888708 - Found V076A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A02
+2023-08-06 08:37:10.889659 - Found V076A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A03
+2023-08-06 08:37:10.890533 - Found V076A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A04
+2023-08-06 08:37:10.891354 - Found V076A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A05
+2023-08-06 08:37:10.892175 - Found V076A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A06
+2023-08-06 08:37:10.892997 - Found V076A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A07
+2023-08-06 08:37:10.893855 - Found V076A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A08
+2023-08-06 08:37:10.894687 - Found V076A09.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A09
+2023-08-06 08:37:10.895508 - Found V076A10.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V076A10
+2023-08-06 08:37:10.896319 - Found V077A00I.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A00I
+2023-08-06 08:37:10.897138 - Found V077A01.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A01
+2023-08-06 08:37:10.898007 - Found V077A02.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A02
+2023-08-06 08:37:10.898896 - Found V077A03.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A03
+2023-08-06 08:37:10.900026 - Found V077A04.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A04
+2023-08-06 08:37:10.901039 - Found V077A05.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A05
+2023-08-06 08:37:10.901964 - Found V077A06.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A06
+2023-08-06 08:37:10.902967 - Found V077A07.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A07
+2023-08-06 08:37:10.903899 - Found V077A08.txt (text/plain) in CBT.V505.FILE946.PDS, moved to PDS/V077A08
